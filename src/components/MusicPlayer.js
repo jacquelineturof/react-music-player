@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-import AlbumCoverCarousel from './AlbumCoverCarousel'
+import AlbumCoverCarousel from './Carousel'
 import MusicControl from './MusicControl'
 
 import classes from './MusicPlayer.module.css'

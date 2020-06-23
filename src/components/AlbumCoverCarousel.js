@@ -4,7 +4,7 @@ import Image1 from '../Assets/mercedes-schulz-j0ygyRIaHtI-unsplash.jpg'
 import Image2 from '../Assets/immo-wegmann-IigzKBfoGAM-unsplash.jpg'
 import Image3 from '../Assets/julia-weihe-aMM2y4tGWgw-unsplash.jpg'
 
-import classes from './AlbumCoverCarousel1.module.css'
+import classes from './AlbumCoverCarousel.module.css'
 
 const AlbumCoverCarousel = () => {
     return (
